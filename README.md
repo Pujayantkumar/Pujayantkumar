@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujayant Kumar</h1>
 <h3 align="center">I'm Passionate About Data Science And Artificial Intelligence it makes A Machine Better for Future</h3>
 
-<img align="right" alt="coding" width="400" src="https://tenor.com/bkbZY.gif">
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/67390876/224553891-73042d86-db63-4c29-8ab6-9830d289cd46.png)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujayantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="pujayantkumar" /> </p>
 
