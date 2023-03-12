@@ -1,3 +1,4 @@
+![logo](https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1658329862060.jpeg)
 <h1 align="center">Hi 👋, I'm Pujayant Kumar</h1>
 <h3 align="center">Experiment..Fail..Learn..Repeat</h3>
 <h4 align="center">Do, Or Do Not.There is No Try</h4>
