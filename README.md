@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pujayant Kumar</h1>
-<h3 align="center">I'm Passionate About Data Science And Artificial Intelligence it makes A Machine Better for Future</h3>
+<h3 align="center">Experiment..Fail..Learn..Repeat</h3>
+<h4 aligh="center">Do, Or Do Not.There is No Try</h4>
 
 <img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/67390876/224553891-73042d86-db63-4c29-8ab6-9830d289cd46.png)">
 
