@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pujayant Kumar</h1>
 <h3 align="center">Experiment..Fail..Learn..Repeat</h3>
-<h4 aligh="center">Do, Or Do Not.There is No Try</h4>
+<h4 align="center">Do, Or Do Not.There is No Try</h4>
+<h5 align="center">Time & Tides Waits for None</h5>
 
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/67390876/224553891-73042d86-db63-4c29-8ab6-9830d289cd46.png)">
+<img align="right" alt="coding" width="444" src="https://user-images.githubusercontent.com/67390876/224555437-d6a4525e-d5cf-49bf-ab55-ae441672b55e.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujayantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="pujayantkumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly write articles on [https://braiengineer.blogspot.com/](https://braiengineer.blogspot.com/)
+- 👨‍🎓 **Computer Science & EnGineerinG #2019-23** 📝
 
-- 💬 Ask me about **Scikit Learn, NLTK, Pandas, Matplotlib,etc**
+- 💬 **Scikit Learn, NLTK, Pandas, Matplotlib,etc**
 
-- 📫 How to reach me **engg.pujayant7@gmail.com**
+- 📫 Write M3 **engg.pujayant7@gmail.com**
 
-- ⚡ Fun fact **When You are On Rest Anyone Is Doing Best - SO DON'T REST(Comfort Resistant)**
+- **When You @re at R3st Som3one Is Doing B3St - SO Be Som3one(Comfort R3sistant)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pujayantkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pujayantkumar" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
