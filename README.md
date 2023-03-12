@@ -1,8 +1,8 @@
 ![logo](https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1658329862060.jpeg)
-<h1 align="center">Hi 👋, I'm Pujayant Kumar</h1>
-<h3 align="center">Experiment..Fail..Learn..Repeat</h3>
-<h4 align="center">Do, Or Do Not.There is No Try</h4>
-<h5 align="center">Time & Tides Waits for None</h5>
+<h1 align="center">Hello , I'm Pujayant Kumar☯</h1>
+<h3 align="center">Experiment💻..Fail⏬..Learn📚..Growth⏫..Repeat♻</h3>
+<h4 align="center">Do, Or Do Not.♾There is No Try☸</h4>
+<h5 align="center">👁‍🗨Time & Tides Waits for None</h5>
 
 <img align="right" alt="coding" width="444" src="https://user-images.githubusercontent.com/67390876/224555437-d6a4525e-d5cf-49bf-ab55-ae441672b55e.png">
 
