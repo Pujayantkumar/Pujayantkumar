@@ -1,6 +1,6 @@
 ![logo](https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1658329862060.jpeg)
 <h1 align="center">Hello , I'm Pujayant Kumar☯</h1>
-<h3 align="center">Experiment💻..Fail⏬..Learn📚..Growth⏫..Repeat♻</h3>
+<h3 align="center">Experiment💻.Fail⏬.Learn📚.Growth⏫.Repeat♻</h3>
 <h4 align="center">Do, Or Do Not.♾There is No Try☸</h4>
 <h5 align="center">👁‍🗨Time & Tides Waits for None</h5>
 
