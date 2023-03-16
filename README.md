@@ -1,10 +1,13 @@
 ![logo](https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1658329862060.jpeg)
-<h1 align="center">Hello , I'm Pujayant Kumar☯</h1>
-<h3 align="center">Experiment💻.Fail⏬.Learn📚.Growth⏫.Repeat♻</h3>
-<h4 align="center">Do, Or Do Not.♾There is No Try☸</h4>
-<h5 align="center">👁‍🗨Time & Tides Waits for None</h5>
 
-<img align="right" alt="coding" width="444" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+<img align="right" alt="coding" width="444" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/juggernaut.gif">
+
+<h1 align="left">Hello , I'm Pujayant Kumar☯</h1>
+<h3 align="left">Experiment💻.Fail⏬.Learn📚.Growth⏫.Repeat♻</h3>
+<h4 align="left">Do, Or Do Not.♾There is No Try☸</h4>
+<h5 align="left">👁‍🗨Time & Tides Waits for None</h5>
+
+<img align="left" alt="coding" width="444" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujayantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="pujayantkumar" /> </p>
 
@@ -17,6 +20,9 @@
 - 📫 **engg.pujayant7@gmail.com**
 
 - 🎲 **When You @re at R3st Som3one Is Doing B3St - SO Be Som3one(Comfort R3sistant)**
+
+<img align="right" alt="coding" width="444" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/circle%20ball%20dota.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
