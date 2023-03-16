@@ -54,7 +54,5 @@
  
 <p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
   
- <p><img align="right" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
-
 
 <h8 align="left">Thank You For Visiting My Github :))</h8>
