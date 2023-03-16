@@ -44,7 +44,7 @@
 
  <p align="center" width="47%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1659778815_wallpapersdota2.com-261.jpg"></p>
  
-<p align="right" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
+<p align="left" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
  
  **I'm Learning New Skills Related to Data Science**
  
