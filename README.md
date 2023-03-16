@@ -55,3 +55,8 @@
 
 <h8 align="left">Thank You For Visiting My Github :))</h8>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujayantkumar&label=Profile%20views&color=0e75b6&style=flat" alt="pujayantkumar" /> </p>
+
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://linkedin.com/in/pujayantkumar" target="blank"><img align="right"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
+</p>
