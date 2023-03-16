@@ -40,7 +40,7 @@
  
  <p align="center" width="50%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/earth%20shaker%20dota.gif"></p>
  
-<p><h7 align="center">My Project Work Can Be Found My Repositories</h7></p>
+<p><h7 align="center">Project Work Can Be Found into My Repositories</h7></p>
 
  <p align="center" width="47%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1659778815_wallpapersdota2.com-261.jpg"></p>
  
@@ -54,7 +54,7 @@
  
 <p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
   
- <p><img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
+ <p><img align="right" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
 
 
-<h8 align="left">👁‍Thank You For Visiting My Git Profile</h8>
+<h8 align="left">Thank You For Visiting My Github :))</h8>
