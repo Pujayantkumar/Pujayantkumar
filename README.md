@@ -52,7 +52,7 @@
  
 <img align="center" width="47%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1660814237_image%20(4).jpg">
  
-<p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
+<p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
   
  <p><img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
 
