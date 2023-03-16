@@ -55,5 +55,5 @@
 <a href="https://linkedin.com/in/pujayantkumar" target="blank"><img align="right"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
 </p>
 <p align="right">
-<a href="https://www.instagram.com/pujayantkumar/" target="blank"><img align="right"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pujayantkumar/" target="blank"><img align="right"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram-alt.svg" alt="pujayantkumar" height="30" width="40" /></a>
 </p>
