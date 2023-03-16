@@ -44,13 +44,15 @@
 
  <p align="center" width="47%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1659778815_wallpapersdota2.com-261.jpg"></p>
  
-<p align="left" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
+<p align="center" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
  
+ <img align="right" alt="coding" width="37%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/circle%20ball%20dota.gif"/>
+
  **I'm Learning New Skills Related to Data Science**
  
 <img align="center" width="47%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1660814237_image%20(4).jpg">
  
-<p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
+<p><img align="center" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
   
  <p><img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
 
