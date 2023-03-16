@@ -40,18 +40,17 @@
  
  <p align="center" width="50%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/earth%20shaker%20dota.gif"></p>
  
-<h7 align="center">My Project Work Can Be Found My Repositories</h7>
+<p><h7 align="center">My Project Work Can Be Found My Repositories</h7></p>
+
+ <p align="center" width="47%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1659778815_wallpapersdota2.com-261.jpg"></p>
  
- <p align="center" width="55%"><img src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1659778815_wallpapersdota2.com-261.jpg"></p>
- 
- 
-<p align="left" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
+<p align="right" width="47%"> <img src="https://github-readme-stats.vercel.app/api?username=pujayantkumar&show_icons=true&theme=radical"></p>
  
  **I'm Learning New Skills Related to Data Science**
  
-<img align="center" width="40%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1660814237_image%20(4).jpg">
+<img align="center" width="47%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/1660814237_image%20(4).jpg">
  
-<p><img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
+<p><img align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=pujayantkumar&" alt="pujayantkumar" /></p>
   
  <p><img align="left" width="22%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pujayantkumar&show_icons=true&locale=en&layout=compact" alt="pujayantkumar" /></p>
 
