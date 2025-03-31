@@ -1,4 +1,4 @@
-![logo](1740781624865.jpg)
+![logo](1658329862060.jpeg)
 
 <img align="right" alt="coding" width="37%" src="https://github.com/Pujayantkumar/Pujayantkumar/blob/main/juggernaut.gif"/>
 
